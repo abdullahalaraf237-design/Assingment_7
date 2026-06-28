@@ -1,0 +1,122 @@
+export default [
+  {
+    "id": 1,
+    "name": "John Doe",
+    "picture": "https://example.com/photo1.jpg",
+    "email": "john@example.com",
+    "days_since_contact": 3,
+    "status": "on_track",
+    "tags": ["college", "close friend"],
+    "bio": "Met in university. Love hiking together.",
+    "goal": 14,
+    "next_due_date": "2025-07-20"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Johnson",
+    "picture": "https://example.com/photo2.jpg",
+    "email": "sarah@example.com",
+    "days_since_contact": 18,
+    "status": "Need Attention",
+    "tags": ["work", "mentor"],
+    "bio": "Former team lead and career mentor.",
+    "goal": 14,
+    "next_due_date": "2025-07-05"
+  },
+  {
+    "id": 3,
+    "name": "Michael Brown",
+    "picture": "https://example.com/photo3.jpg",
+    "email": "michael@example.com",
+    "days_since_contact": 8,
+    "status": "Interactions This Month",
+    "tags": ["gym", "friend"],
+    "bio": "Workout partner since 2023.",
+    "goal": 10,
+    "next_due_date": "2025-07-15"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "picture": "https://example.com/photo4.jpg",
+    "email": "emily@example.com",
+    "days_since_contact": 2,
+    "status": "on_track",
+    "tags": ["family", "cousin"],
+    "bio": "Lives in another city and we chat regularly.",
+    "goal": 7,
+    "next_due_date": "2025-07-11"
+  },
+  {
+    "id": 5,
+    "name": "David Wilson",
+    "picture": "https://example.com/photo5.jpg",
+    "email": "david@example.com",
+    "days_since_contact": 24,
+    "status": "Need Attention",
+    "tags": ["college", "roommate"],
+    "bio": "College roommate and lifelong friend.",
+    "goal": 14,
+    "next_due_date": "2025-07-03"
+  },
+  {
+    "id": 6,
+    "name": "Sophia Martinez",
+    "picture": "https://example.com/photo6.jpg",
+    "email": "sophia@example.com",
+    "days_since_contact": 5,
+    "status": "Interactions This Month",
+    "tags": ["book club"],
+    "bio": "Met through a local book club.",
+    "goal": 7,
+    "next_due_date": "2025-07-13"
+  },
+  {
+    "id": 7,
+    "name": "James Anderson",
+    "picture": "https://example.com/photo7.jpg",
+    "email": "james@example.com",
+    "days_since_contact": 1,
+    "status": "on_track",
+    "tags": ["neighbor"],
+    "bio": "Helpful neighbor who enjoys gardening.",
+    "goal": 7,
+    "next_due_date": "2025-07-09"
+  },
+  {
+    "id": 8,
+    "name": "Olivia Taylor",
+    "picture": "https://example.com/photo8.jpg",
+    "email": "olivia@example.com",
+    "days_since_contact": 19,
+    "status": "Need Attention",
+    "tags": ["travel", "friend"],
+    "bio": "Met while backpacking across Europe.",
+    "goal": 14,
+    "next_due_date": "2025-07-06"
+  },
+  {
+    "id": 9,
+    "name": "Daniel Thomas",
+    "picture": "https://example.com/photo9.jpg",
+    "email": "daniel@example.com",
+    "days_since_contact": 7,
+    "status": "Interactions This Month",
+    "tags": ["startup", "co-founder"],
+    "bio": "Worked together on a startup project.",
+    "goal": 10,
+    "next_due_date": "2025-07-16"
+  },
+  {
+    "id": 10,
+    "name": "Emma White",
+    "picture": "https://example.com/photo10.jpg",
+    "email": "emma@example.com",
+    "days_since_contact": 4,
+    "status": "on_track",
+    "tags": ["school", "best friend"],
+    "bio": "Best friend since high school.",
+    "goal": 7,
+    "next_due_date": "2025-07-12"
+  }
+]
