@@ -1,13 +1,11 @@
-import Navbar from '../component/Navbar/navbar';
 import Banar from '../component/Banar/banar';
-import Card from '../component/cardsec/card';
+import FriendsSection from '../components/Friends/FriendsSection';
 
 export default function Home() {
   return (
     <>
-      <Navbar />
       <Banar />
-      <Card />
+      <FriendsSection />
     </>
   );
 }
